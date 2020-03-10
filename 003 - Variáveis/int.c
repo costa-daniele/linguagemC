@@ -11,7 +11,7 @@ int main(){
 
     int ni2 = 3, ni3 = 4;
 
-    printf("%i\n%i\n%i\n%i\n",i, ni1, ni2, ni3);
+    printf("%d\n%d\n%i\n%i\n%i\n",i, ni1, ni2, ni3, ni3 + 1);
     system("pause");
     return;
 }
