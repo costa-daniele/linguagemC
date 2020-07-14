@@ -1,6 +1,5 @@
 # Curso de Iniciação da Linguagem C
 
----
 
 ### Conteúdos Abordados 
 
@@ -21,3 +20,5 @@
 ---
 
 Estudos realizados a partir do Canal do Youtube Linguagem C Programação Descomplicada
+
+[Link do Canal](https://www.youtube.com/channel/UCUc6UwvpQfOLDE7e52-OCMw)
